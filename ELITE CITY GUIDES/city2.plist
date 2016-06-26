@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Amsterdam</key>
+	<string>amsterdam2</string>
+	<key>Aspen</key>
+	<string>aspen2</string>
+	<key>Bali</key>
+	<string>bali2</string>
+	<key>Bangkok</key>
+	<string>bangkok2</string>
+	<key>Barcelona</key>
+	<string>barcelona2</string>
+	<key>Berlin</key>
+	<string>berlin2</string>
+	<key>Chicago</key>
+	<string>chicago2</string>
+	<key>Dubai</key>
+	<string>dubai2</string>
+	<key>Florence</key>
+	<string>florence2</string>
+	<key>Hawai</key>
+	<string>hawai2</string>
+	<key>Ibiza</key>
+	<string>ibiza2</string>
+	<key>Koh Samui</key>
+	<string>koh samui2</string>
+	<key>London</key>
+	<string>london2</string>
+	<key>Maldives</key>
+	<string>maldives2</string>
+	<key>Melbourne</key>
+	<string>melbourne2</string>
+	<key>Miami</key>
+	<string>miami2</string>
+	<key>New York</key>
+	<string>new york2</string>
+	<key>Paris</key>
+	<string>paris2</string>
+	<key>Punta Cana</key>
+	<string>punta cana2</string>
+	<key>Punta Mita</key>
+	<string>punta mita2</string>
+	<key>Saint Tropez</key>
+	<string>saint tropez2</string>
+	<key>Singapore</key>
+	<string>singapore2</string>
+	<key>St Barts</key>
+	<string>st barts2</string>
+	<key>Turks &amp; Caicos</key>
+	<string>turks &amp; caicos2</string>
+	<key>Venice</key>
+	<string>venice2</string>
+</dict>
+</plist>
