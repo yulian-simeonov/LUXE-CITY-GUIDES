@@ -2,7 +2,7 @@
 //  ELPlaceGuide.h
 //  ELITE CITY GUIDES
 //
-//  Created by Tony Parker on 5/20/16.
+//  Created by Yavor Krastev on 5/20/16.
 //  Copyright © 2016 eliteLYFE. All rights reserved.
 //
 
